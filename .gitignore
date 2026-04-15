@@ -1,0 +1,27 @@
+# Autosave (KiCad)
+*_autosave-*
+
+# Backup files
+*.bak
+*.bck
+*.backup
+*~
+
+# KiCad specific backups
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Lock files (gdy projekt otwarty)
+*.lck
+
+# Cache (generowane automatycznie)
+*-cache.lib
+*-rescue.lib
+*.kicad_prl
+*.kicad_pro-bak
+
+# Tymczasowe pliki systemowe
+*.tmp
+*.temp
+
+loopSwitchSTM-backups/
